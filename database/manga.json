@@ -1,0 +1,44 @@
+/* MonstaComic V3.9 Rev 0 - manga.json Schema */
+{
+  "manga_id": "a-dragonslayers-peerless-regression",
+  "title": "A Dragonslayer’s Peerless Regression",
+  "alternative_title": "The Peerless Dragonslayer Who Regressed",
+  "status": "Ongoing",
+  "author": "Swimming Bird",
+  "artist": "S-Line",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Regression",
+    "Shounen"
+  ],
+  "type": "Manhwa",
+  "release_year": "2023",
+  "rating": "9.2",
+  "synopsis": "Satu-satunya manusia yang tersisa di ambang kehancuran dunia, Sion, sang pembantai naga. Setelah berhasil membunuh naga terakhir, ia mengira semuanya sudah berakhir, namun ternyata ia kembali ke masa lalu saat dirinya masih seorang kuncup yang belum mekar. Kali ini, ia bertekad untuk tidak hanya membantai naga, tetapi menyelamatkan segalanya.",
+  "cover_url": "https://raw.githubusercontent.com/username/repo/main/assets/covers/dragon-slayer.jpg",
+  "chapters": [
+    {
+      "chapter_number": "01",
+      "chapter_title": "The End and The Beginning",
+      "release_date": "2023-11-20",
+      "images": [
+        "https://raw.githubusercontent.com/username/repo/main/chapters/01/001.jpg",
+        "https://raw.githubusercontent.com/username/repo/main/chapters/01/002.jpg",
+        "https://raw.githubusercontent.com/username/repo/main/chapters/01/003.jpg",
+        "https://raw.githubusercontent.com/username/repo/main/chapters/01/004.jpg"
+      ]
+    },
+    {
+      "chapter_number": "02",
+      "chapter_title": "Second Chance",
+      "release_date": "2023-11-21",
+      "images": [
+        "https://raw.githubusercontent.com/username/repo/main/chapters/02/001.jpg",
+        "https://raw.githubusercontent.com/username/repo/main/chapters/02/002.jpg",
+        "https://raw.githubusercontent.com/username/repo/main/chapters/02/003.jpg"
+      ]
+    }
+  ]
+}
